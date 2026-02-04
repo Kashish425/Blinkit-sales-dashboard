@@ -1,11 +1,12 @@
 # Blinkit-Sales-Dashboard
 **1. Project Title / Headline**
 
-   Blinkit Sales Performance & Outlet Analysis Dashboard
+**🛒 Blinkit Sales Performance & Outlet Analysis Dashboard**
 
 A dynamic Power BI dashboard built to analyze Blinkit sales performance across outlet types, city tiers, product categories, and outlet sizes, with a focus on revenue trends, item mix, and customer ratings.
 
 **2. Short Description / Purpose**
+
    This dashboard helps you monitor sales performance and customer behavior across Blinkit outlets. You use it to identify high-performing outlets, top-selling categories, and demand patterns by location and size.
 
 **3. Tech Stack**
@@ -95,6 +96,7 @@ Tracks long-term sales trends by outlet establishment year.
 
 **6. ScreenShot**       
 
-![Dashboard Screenshot](
+![Dashboard Screenshot](https://github.com/Kashish425/Blinkit-Sales-Dashboard/blob/main/No.of%20Items.png)
+
 
 
